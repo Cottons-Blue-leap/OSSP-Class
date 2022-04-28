@@ -1,1 +1,2 @@
 # OSSP-Class
+# TEST1 : USE CLONE - ADD - COMMIT - PUSH
